@@ -1,0 +1,23 @@
+
+body{
+    background-color: crimson;
+}
+
+h1{
+   color: blue; 
+}
+p{
+    color: gold;
+}
+
+caption{
+    color: hotpink;
+    font-size: 30px;
+}
+
+.uno{
+    color: blueviolet;
+    background-color: aqua;
+}
+
+
